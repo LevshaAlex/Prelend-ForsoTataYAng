@@ -1,0 +1,54 @@
+ googletag.cmd.push(function() {
+    googletag.defineSlot('/116117570/TTM_Leaderboard_a', [[728, 90], [320, 100]], 'div-gpt-ad-1501491347553-0').addService(googletag.pubads());
+    googletag.defineSlot('/116117570/variety_leaderboard_all', [[728, 90], [320, 50]], 'div-gpt-ad-1509092031737-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_ent_inter', [728, 90], 'div-gpt-ad-1509360456239-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_ent_thai', [728, 90], 'div-gpt-ad-1509360499297-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_info', [728, 90], 'div-gpt-ad-1509360543693-0').addService(googletag.pubads());
+ googletag.defineSlot('/116117570/variety_leaderboard_lifestyle_beauty', [728, 90], 'div-gpt-ad-1509360687227-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_lifestyle_health', [728, 90], 'div-gpt-ad-1509360764577-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_lifestyle_home-decor', [728, 90], 'div-gpt-ad-1509360804259-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_lifestyle_variety', [728, 90], 'div-gpt-ad-1509360869261-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_sport', [728, 90], 'div-gpt-ad-1509360991789-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_travel_fooddrink', [728, 90], 'div-gpt-ad-1509361130496-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_leaderboard_travel_trips', [728, 90], 'div-gpt-ad-1509361172941-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/116117570/variety_R1_all', [300, 250], 'div-gpt-ad-1509094310792-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R1_ent_inter', [300, 250], 'div-gpt-ad-1509361235584-0').addService(googletag.pubads());
+ 
+  googletag.defineSlot('/116117570/variety_R1_ent_thai', [300, 250], 'div-gpt-ad-1509361341040-0').addService(googletag.pubads());
+googletag.defineSlot('/116117570/variety_R1_info', [300, 250], 'div-gpt-ad-1509361420299-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R1_lifestyle_beauty', [300, 250], 'div-gpt-ad-1509361518607-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R1_lifestyle_health', [300, 250], 'div-gpt-ad-1509361604864-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R1_lifestyle_home-decor', [300, 250], 'div-gpt-ad-1509361680171-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R1_lifestyle_variety', [300, 250], 'div-gpt-ad-1509361735087-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R1_sport', [300, 250], 'div-gpt-ad-1509361788945-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R1_travel_fooddrink', [300, 250], 'div-gpt-ad-1509361851874-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R1_travel_trips', [300, 250], 'div-gpt-ad-1509361940209-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/116117570/variety_R2_all', [300, 250], 'div-gpt-ad-1509355304668-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_ent_inter', [300, 250], 'div-gpt-ad-1509362016632-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_ent_thai', [300, 250], 'div-gpt-ad-1509362077198-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_info', [300, 250], 'div-gpt-ad-1509362125134-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_lifestyle_beauty', [300, 250], 'div-gpt-ad-1509362167506-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_lifestyle_health', [300, 250], 'div-gpt-ad-1509362219036-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_lifestyle_home-decor', [300, 250], 'div-gpt-ad-1509362268127-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_lifestyle_variety', [300, 250], 'div-gpt-ad-1509362309871-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_sport', [300, 250], 'div-gpt-ad-1509362357622-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_travel_fooddrink', [300, 250], 'div-gpt-ad-1509362406156-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R2_travel_trips', [300, 250], 'div-gpt-ad-1509362458482-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/116117570/variety_R3_index', [300, 250], 'div-gpt-ad-1509359099178-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_R3_detail', [300, 250], 'div-gpt-ad-1509362502846-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_all', [970, 250], 'div-gpt-ad-1509358882357-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_ent_inter', [970, 250], 'div-gpt-ad-1509359417488-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_ent_thai', [970, 250], 'div-gpt-ad-1509359533550-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_info', [970, 250], 'div-gpt-ad-1509359578877-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_lifestyle_beauty', [970, 250], 'div-gpt-ad-1509359900455-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_lifestyle_health', [970, 250], 'div-gpt-ad-1509360114106-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_lifestyle_variety', [970, 250], 'div-gpt-ad-1509360253628-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_sport', [970, 250], 'div-gpt-ad-1509360302159-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_travel_fooddrink', [970, 250], 'div-gpt-ad-1509360359415-0').addService(googletag.pubads());
+  googletag.defineSlot('/116117570/variety_billboard_travel_trips', [970, 250], 'div-gpt-ad-1509360407106-0').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+  });
